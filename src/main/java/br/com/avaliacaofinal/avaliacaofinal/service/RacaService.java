@@ -1,7 +1,7 @@
 package br.com.avaliacaofinal.avaliacaofinal.service;
 
 import br.com.avaliacaofinal.avaliacaofinal.model.Raca;
-import br.com.avaliacaofinal.avaliacaofinal.repository.RacaRepository.RacaRepository;
+import br.com.avaliacaofinal.avaliacaofinal.repository.RacaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

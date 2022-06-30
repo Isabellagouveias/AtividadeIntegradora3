@@ -1,4 +1,4 @@
-package br.com.avaliacaofinal.avaliacaofinal.repository.RacaRepository;
+package br.com.avaliacaofinal.avaliacaofinal.repository;
 
 import br.com.avaliacaofinal.avaliacaofinal.model.Raca;
 import org.springframework.data.jpa.repository.JpaRepository;
